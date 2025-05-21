@@ -1,0 +1,53 @@
+# Larran's Key 1
+[[item]]
+id=30540
+inherit=23083
+name="Larran's Keyz"
+stackable=0
+price=0
+replacementcolours=[-14425, -22467]
+
+# Larran's Key 2
+[[item]]
+id=30541
+inherit=23083
+name="Larran's Keey"
+stackable=0
+price=0
+replacementcolours=[-14425, -22467]
+
+# Larran's Key 3
+[[item]]
+id=30542
+inherit=23083
+name="Larran's Keysssss"
+stackable=0
+price=0
+replacementcolours=[-14425, -22467]
+
+# Larran's Key 4
+[[item]]
+id=30543
+inherit=23083
+name="Larran's Keyss"
+stackable=0
+price=0
+replacementcolours=[-14425, -22467]
+
+# Larran's Key 5
+[[item]]
+id=30544
+inherit=23083
+name="Larran's Keys"
+stackable=0
+price=0
+replacementcolours=[-14425, -22467]
+
+# Larran Key Placeholder
+[[item]]
+id=30586
+inherit=21026
+name="Larran's Key"
+stackable=0
+price=0
+replacementcolours=[-14425, -22467]

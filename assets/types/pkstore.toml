@@ -1,0 +1,366 @@
+#ags
+[[item]]
+id=50670
+inherit=11802
+name="Pk Ags 4$"
+placeholdertemplate=-1
+tradable=true
+[[enum]]
+inherit=906
+[enum.values]
+50670=750
+[[enum]]
+inherit=1739
+[enum.values]
+50670="The Special."
+
+#claws
+[[item]]
+id=50671
+inherit=13652
+name="D Claw 4$"
+placeholdertemplate=-1
+tradable=true
+[[enum]]
+inherit=906
+[enum.values]
+50671=500
+[[enum]]
+inherit=1739
+[enum.values]
+50671="The Swipe."
+
+#tent
+[[item]]
+id=50672
+inherit=12006
+name="Tent 2$"
+tradable=true
+placeholdertemplate=-1
+[[enum]]
+inherit=906
+[enum.values]
+50672=500
+[[enum]]
+inherit=1739
+[enum.values]
+50672="The lash."
+
+#toxic staff
+[[item]]
+id=50673
+inherit=12904
+name="Toxic staff 4$"
+placeholdertemplate=-1
+tradable=true
+[[enum]]
+inherit=906
+[enum.values]
+50673=1000
+[[enum]]
+inherit=1739
+[enum.values]
+50673="The Staff."
+
+#elder
+[[item]]
+id=50674
+inherit=21003
+name="Elder 2$"
+placeholdertemplate=-1
+tradable=true
+
+
+# arma c bow
+[[item]]
+id=50675
+inherit=11785
+name="Arma Cbow 4$"
+placeholdertemplate=-1
+tradable=true
+[[enum]]
+inherit=906
+[enum.values]
+50675=500
+[[enum]]
+inherit=1739
+[enum.values]
+50675="The Cbow."
+
+# dharoks helm
+[[item]]
+id=50676
+inherit=4716
+name="Dharok helm 2$"
+placeholdertemplate=-1
+tradable=true
+
+
+# dharoks chest
+[[item]]
+id=50677
+inherit=4720
+name="Dharok body 2$"
+
+placeholdertemplate=-1
+tradable=true
+
+
+# dharoks legs
+[[item]]
+id=50678
+inherit=4722
+name="Dharok legs 2$"
+placeholdertemplate=-1
+tradable=true
+
+# dharoks axe
+[[item]]
+id=50679
+inherit=4718
+name="Dharok axe 2$"
+placeholdertemplate=-1
+tradable=true
+
+# karils coif
+[[item]]
+id=50680
+inherit=4732
+name="karils coif 2$"
+placeholdertemplate=-1
+tradable=true
+
+# karils body
+[[item]]
+id=50681
+inherit=4736
+name="karils body 2$"
+placeholdertemplate=-1
+tradable=true
+
+# karils skirt
+[[item]]
+id=50682
+inherit=4738
+name="karils skirt 2$"
+placeholdertemplate=-1
+tradable=true
+
+# ahrims hood
+[[item]]
+id=50683
+inherit=4708
+name="a hood 2$"
+placeholdertemplate=-1
+tradable=true
+
+# ahrims top
+[[item]]
+id=50684
+inherit=4712
+name="a top 2$"
+placeholdertemplate=-1
+tradable=true
+
+# ahrims skirt
+[[item]]
+id=50685
+inherit=4714
+name="a skirt 2$"
+placeholdertemplate=-1
+tradable=true
+
+# ring seer
+[[item]]
+id=50686
+inherit=11770
+name="Seers i 2$"
+placeholdertemplate=-1
+tradable=true
+grandExchange = true
+
+# ring archer
+[[item]]
+id=50687
+inherit=11771
+name="Archers i 2$"
+placeholdertemplate=-1
+tradable=true
+grandExchange = true
+
+# ring b ring
+[[item]]
+id=50688
+inherit=11773
+name="Berserker i 2$"
+placeholdertemplate=-1
+tradable=true
+grandExchange = true
+
+# fury new
+[[item]]
+id=50689
+inherit=6585
+name="fury 2$"
+placeholdertemplate=-1
+tradable=true
+
+# new vernic
+[[item]]
+id=50690
+inherit=22322
+name="avernic 2$"
+placeholdertemplate=-1
+tradable=true
+
+# Eternal boots
+[[item]]
+id=50691
+inherit=13235
+name="Eternal boots 2$"
+placeholdertemplate=-1
+tradable=true
+
+# peg boots
+[[item]]
+id=50692
+inherit=13237
+name="Peg boots 2$"
+placeholdertemplate=-1
+tradable=true
+
+# prim boots
+[[item]]
+id=50693
+inherit=13239
+name="Prims boots 2$"
+placeholdertemplate=-1
+tradable=true
+
+# faceguard
+[[item]]
+id=50694
+inherit=24271
+name="Netzy face 2$"
+placeholdertemplate=-1
+tradable=true
+
+# torso
+[[item]]
+id=50695
+inherit=10551
+name="Torso 2$"
+placeholdertemplate=-1
+tradable=true
+
+# tassy
+[[item]]
+id=50696
+inherit=11834
+name="Bandos tassy 4$"
+placeholdertemplate=-1
+tradable=true
+
+# Bandos chest
+[[item]]
+id=50697
+inherit=11832
+name="Bandos Chest 4$"
+placeholdertemplate=-1
+tradable=true
+
+# armadyl helm
+[[item]]
+id=50698
+inherit=11826
+name="Armadyl helm 2$"
+placeholdertemplate=-1
+tradable=true
+
+# armadyl chest
+[[item]]
+id=50699
+inherit=11828
+name="Armadyl chest 2$"
+placeholdertemplate=-1
+tradable=true
+
+# armadyl skirt
+[[item]]
+id=50715
+inherit=11830
+name="Armadyl skirt 2$"
+placeholdertemplate=-1
+tradable=true
+
+# mages book
+[[item]]
+id=50701
+inherit=6889
+name="mage's Book 2$"
+placeholdertemplate=-1
+tradable=true
+
+# barrows gloves
+[[item]]
+id=50702
+inherit=7462
+name="Barrows gloves 2$"
+placeholdertemplate=-1
+tradable=true
+
+# i magic cape
+[[item]]
+id=50703
+inherit=21793
+name="Guthic cape i 2$"
+placeholdertemplate=-1
+tradable=true
+
+# i infernal cape
+[[item]]
+id=50704
+inherit=21295
+name="Infernal cape 2$"
+placeholdertemplate=-1
+tradable=true
+
+# Accumulator
+[[item]]
+id=50705
+inherit=22109
+name="Accumulator"
+placeholdertemplate=-1
+tradable=true
+
+# pk supplys
+[[item]]
+id=50905
+inherit=2726
+name="100x Pk Potions & Bolts"
+placeholdertemplate=-1
+tradable=true
+
+# pk supplys food
+[[item]]
+id=50906
+inherit=2726
+name="500 x Pk Food & Runes"
+placeholdertemplate=-1
+tradable=true
+
+# 1$ token
+[[item]]
+inherit=620
+name="1$ Ticket"
+placeholdertemplate=-1
+tradable=true
+grandExchange = true
+
+# 0.10c fragment
+[[item]]
+inherit=21535
+name="1$ Fragments"
+placeholdertemplate=-1
+tradable=true
+grandExchange = true

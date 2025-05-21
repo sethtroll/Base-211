@@ -1,0 +1,46 @@
+# Clue progresser item single
+[[item]]
+id=8855
+inherit=892
+name="Vote Points"
+invmodel=57577
+op2=""
+op4="Info"
+op5="Drop"
+stackable=1
+price=1000
+stackids=[8855, 8855, 8855, 8855, 0, 0, 0, 0, 0, 0]
+stackamounts=[2, 3, 4, 5, 0, 0, 0, 0, 0, 0]
+zoom=1744
+modelpitch=500
+modelroll=1799
+offsetx=3
+offsety=1
+resizex=32
+resizey=32
+resizez=32
+grandexchange=true
+originalcolours=[-30271]
+replacementcolours=[36295]
+placeholderid=30217
+placeholdertemplate=-1
+
+# Clue progresser item 2
+[[item]]
+id=30211
+inherit=936
+name="Vote Points"
+invmodel=57578
+op5="Drop"
+stackable=1
+price=1
+zoom=1744
+modelpitch=500
+modelroll=1799
+offsetx=3
+offsety=1
+resizex=32
+resizey=32
+resizez=32
+originalcolours=[-30271, -30257]
+replacementcolours=[36295, 36309]

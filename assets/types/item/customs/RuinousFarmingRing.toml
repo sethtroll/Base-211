@@ -1,0 +1,27 @@
+#zenyte Donator Ring
+[[item]]
+id=40001
+inherit=19538
+name="Pharaoh Farming Ring"
+placeholderid=32136
+primarymalemodel=-1
+primaryfemalemodel=-1
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+op1="Rub"
+grandexchange=true
+members=false
+notedid=40002
+replacementcolours=[-14425, -22467]
+
+#Pharaoh donator ring Placeholder
+[[item]]
+id=40003
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=32135
+replacementcolours=[-14425, -22467]
+

@@ -1,0 +1,482 @@
+{
+  "shopUID": 115,
+  "shopName": "Burn Points System Sell Price Viewer",
+  "currency": "BURN_POINTS",
+  "sellPolicy": "NO_SELLING",
+  "items": [
+    {
+      "id": 11840,
+      "amount": 50,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 4151,
+      "amount": 50,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 22557,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11802,
+      "amount": 800,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11806,
+      "amount": 600,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11804,
+      "amount": 400,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11808,
+      "amount": 400,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6570,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 21295,
+      "amount": 1200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11832,
+      "amount": 900,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11834,
+      "amount": 900,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11826,
+      "amount": 500,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11828,
+      "amount": 800,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11830,
+      "amount": 800,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 1038,
+      "amount": 2300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 1040,
+      "amount": 2300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 1042,
+      "amount": 2300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 1044,
+      "amount": 2300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 1046,
+      "amount": 2300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 1048,
+      "amount": 2300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11862,
+      "amount": 2700,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11863,
+      "amount": 2700,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 20997,
+      "amount": 5400,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11235,
+      "amount": 45,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 13263,
+      "amount": 300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12821,
+      "amount": 825,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12825,
+      "amount": 980,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12817,
+      "amount": 1300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11836,
+      "amount": 35,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6889,
+      "amount": 75,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6585,
+      "amount": 50,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12002,
+      "amount": 110,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 19547,
+      "amount": 130,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6739,
+      "amount": 30,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11824,
+      "amount": 25,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 11283,
+      "amount": 25,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 21015,
+      "amount": 1100,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 13576,
+      "amount": 690,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12879,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12881,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12883,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12875,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12877,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 22326,
+      "amount": 1650,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 22327,
+      "amount": 1650,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 22328,
+      "amount": 1650,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 26382,
+      "amount": 1900,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 26384,
+      "amount": 2250,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 26386,
+      "amount": 2250,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 20724,
+      "amount": 325,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 27229,
+      "amount": 2600,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 27232,
+      "amount": 2600,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 27226,
+      "amount": 2600,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 21018,
+      "amount": 1200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 21021,
+      "amount": 1300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 21024,
+      "amount": 1300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 24417,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 24419,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 24420,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 24421,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 22325,
+      "amount": 5000,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6918,
+      "amount": 38,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6922,
+      "amount": 38,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6920,
+      "amount": 38,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6924,
+      "amount": 43,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 6916,
+      "amount": 43,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 962,
+      "amount": 2300,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12007,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12885,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 12936,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 13245,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 13277,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 19701,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 21745,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 22106,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 23525,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 25521,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 25524,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    },
+    {
+      "id": 24495,
+      "amount": 200,
+      "sellPrice": 0,
+      "buyPrice": -1
+    }
+  ]
+}

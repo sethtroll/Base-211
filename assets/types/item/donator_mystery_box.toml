@@ -1,0 +1,55 @@
+# Pet mystery box
+[[item]]
+id=60001
+inherit=6199
+name="Donator mystery box"
+grandexchange=false
+placeholderid=30032
+replacementcolours=[2745]
+
+
+# Pet mystery box
+[[item]]
+id=50800
+inherit=6199
+name="Weapon mystery box"
+grandexchange=false
+placeholderid=30032
+replacementcolours=[-14425, -22467]
+
+# Pet mystery box
+[[item]]
+id=60011
+inherit=6199
+name="Secondary mystery box"
+grandexchange=false
+placeholderid=30032
+replacementcolours=[8765]
+
+
+
+# Pet mystery box
+[[item]]
+id=60050
+inherit=6199
+name="Lucky Box"
+grandexchange=false
+placeholderid=30032
+replacementcolours=[4000]
+
+
+# Pet mystery box (placeholder)
+[[item]]
+id=60002
+inherit=18086
+name="null"
+placeholderid=30031
+replacementcolours=[2745]
+
+
+# Pet mystery box rewards with destroy option
+[[item]]
+inherit=[20838, 20840, 20842, 20844, 20846, 11863, 12887, 12888, 12889, 12890,
+         12891, 11021, 11019, 11020, 11022]
+grandexchange=true
+op5="Drop"

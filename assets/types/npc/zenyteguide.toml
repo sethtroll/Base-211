@@ -1,0 +1,9 @@
+# zenyte Guide
+[[npc]]
+id=13035
+inherit=306
+name="Pharaoh Guide"
+op1="Talk-to"
+combatlevel=0
+size=1
+

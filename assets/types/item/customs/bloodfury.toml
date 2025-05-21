@@ -1,0 +1,110 @@
+# Amulet of blood fury full
+[[item]]
+id=50499
+inherit=24780
+name="Amulet of blood fury"
+grandexchange=false
+notedid=-1
+price=100000
+
+[item.parameters]
+451="Check"
+
+# Amulet of blood fury Placeholder
+[[item]]
+id=50498
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=24780
+
+
+
+# Amulet of blood fury (75-100)
+[[item]]
+id=50500
+inherit=24780
+name="Amulet of blood fury"
+grandexchange=false
+notedid=-1
+price=100000
+
+[item.parameters]
+451="Check"
+
+# Amulet of blood fury Placeholder
+[[item]]
+id=50501
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=24780
+
+
+
+
+# Amulet of blood fury (50-75)
+[[item]]
+id=50502
+inherit=24780
+name="Amulet of blood fury"
+placeholderid=24783
+grandexchange=false
+notedid=-1
+price=100000
+
+[item.parameters]
+451="Check"
+
+# Amulet of blood fury Placeholder (50-75)
+[[item]]
+id=50503
+inherit=24780
+name="null"
+placeholdertemplate=14401
+placeholderid=24782
+
+
+
+# Amulet of blood fury (25-50)
+[[item]]
+id=50504
+inherit=24780
+name="Amulet of blood fury"
+placeholderid=24785
+grandexchange=false
+notedid=-1
+price=100000
+
+[item.parameters]
+451="Check"
+
+# Amulet of blood fury Placeholder (25-50)
+[[item]]
+id=50505
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=24784
+
+
+# Amulet of blood fury (0-25)
+[[item]]
+id=50506
+inherit=24780
+name="Amulet of blood fury"
+placeholderid=24787
+grandexchange=false
+notedid=-1
+price=100000
+
+[item.parameters]
+451="Check"
+
+# Amulet of blood fury Placeholder (0-25)
+[[item]]
+id=50507
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=24786

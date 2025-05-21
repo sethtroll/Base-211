@@ -1,0 +1,43 @@
+{
+  "shopUID": 1011,
+  "shopName": "Apprentice Felix's Shop",
+  "currency": "ABYSSAL_PEARLS",
+  "sellPolicy": "STOCK_ONLY",
+  "items": [
+    {
+      "id": 26850,
+      "amount": 100,
+      "sellPrice": 150,
+      "buyPrice": 200,
+      "restockTimer": 1
+    },
+    {
+      "id": 26852,
+      "amount": 100,
+      "sellPrice": 150,
+      "buyPrice": 200,
+      "restockTimer": 1
+    },
+    {
+      "id": 26854,
+      "amount": 100,
+      "sellPrice": 150,
+      "buyPrice": 200,
+      "restockTimer": 1
+    },
+    {
+      "id": 26856,
+      "amount": 100,
+      "sellPrice": 150,
+      "buyPrice": 200,
+      "restockTimer": 1
+    },
+    {
+      "id": 26784,
+      "amount": 100,
+      "sellPrice": 100,
+      "buyPrice": 250,
+      "restockTimer": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Elf Trader
+[[npc]]
+id=13300
+inherit=5302
+name="Elder Elf Trader"
+combatlevel=0
+op1="Crystal Weapons"
+op2="Crystal Armours"
+op3="Crystal Tools"
+size=1

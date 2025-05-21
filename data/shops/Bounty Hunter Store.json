@@ -1,0 +1,320 @@
+{
+  "shopUID": 260,
+  "shopName": "Bounty Hunter Store",
+  "currency": "BLOOD_MONEY",
+  "sellPolicy": "STOCK_ONLY",
+  "items": [
+    {
+      "id": 1305,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 300000
+    },
+    {
+      "id": 1377,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 400000
+    },
+    {
+      "id": 1434,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 150000
+    },
+    {
+      "id": 3204,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 900000
+    },
+    {
+      "id": 10828,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 150000
+    },
+    {
+      "id": 3751,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 234000
+    },
+    {
+      "id": 3753,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 234000
+    },
+    {
+      "id": 3749,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 234000
+    },
+    {
+      "id": 3755,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 234000
+    },
+    {
+      "id": 12759,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 500000
+    },
+    {
+      "id": 12761,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 500000
+    },
+    {
+      "id": 12763,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 500000
+    },
+    {
+      "id": 12757,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 500000
+    },
+    {
+      "id": 12781,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12782,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12775,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12776,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12777,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12778,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12779,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12780,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12771,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 500000
+    },
+    {
+      "id": 12769,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 500000
+    },
+    {
+      "id": 12798,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 250000
+    },
+    {
+      "id": 21202,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 250000
+    },
+    {
+      "id": 12800,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 300000
+    },
+    {
+      "id": 12802,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 350000
+    },
+    {
+      "id": 12783,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 50000
+    },
+    {
+      "id": 12786,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 100000
+    },
+    {
+      "id": 11941,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12849,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 250000
+    },
+    {
+      "id": 21802,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 75000
+    },
+    {
+      "id": 21166,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 19564,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 30000
+    },
+    {
+      "id": 2442,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 6000
+    },
+    {
+      "id": 3040,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 5000
+    },
+    {
+      "id": 12695,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 25000
+    },
+    {
+      "id": 10925,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 15000
+    },
+    {
+      "id": 2434,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 10000
+    },
+    {
+      "id": 12913,
+      "amount": 1000,
+      "sellPrice": 0,
+      "buyPrice": 15000
+    },
+    {
+      "id": 22461,
+      "amount": 10000,
+      "sellPrice": 0,
+      "buyPrice": 18000
+    },
+    {
+      "id": 10551,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 600000
+    },
+    {
+      "id": 22804,
+      "amount": 10000,
+      "sellPrice": 0,
+      "buyPrice": 3000
+    },
+    {
+      "id": 21905,
+      "amount": 10000,
+      "sellPrice": 0,
+      "buyPrice": 5000
+    },
+    {
+      "id": 11061,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 550000
+    },
+    {
+      "id": 11899,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 150000
+    },
+    {
+      "id": 11900,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 150000
+    },
+    {
+      "id": 11896,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 150000
+    },
+    {
+      "id": 11897,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 150000
+    },
+    {
+      "id": 12637,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300000
+    },
+    {
+      "id": 12638,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300000
+    },
+    {
+      "id": 12639,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300000
+    }
+  ]
+}

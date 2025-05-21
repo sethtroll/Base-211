@@ -1,0 +1,144 @@
+# Pharaoh Helm
+[[item]]
+id=2683
+inherit=23101
+name="Pharaoh Helm"
+placeholderid=30019
+invmodel=52511
+primarymalemodel=52512
+primaryfemalemodel=52512
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+
+# Pharaoh Helm (placeholder)
+[[item]]
+id=30019
+inherit=15430
+name="null"
+placeholdertemplate=14401
+placeholderid=2683
+invmodel=52511
+
+# Pharaoh Platebody
+[[item]]
+id=2684
+inherit=23097
+name="Pharaoh Platebody"
+placeholderid=30020
+invmodel=52513
+primarymalemodel=52514
+primaryfemalemodel=52514
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+
+# Pharaoh Platebody (placeholder)
+[[item]]
+id=30020
+inherit=15430
+name="null"
+placeholdertemplate=14401
+placeholderid=2684
+invmodel=52513
+
+# Pharaoh Platelegs
+[[item]]
+id=2685
+inherit=23095
+name="Pharaoh Platelegs"
+placeholderid=30021
+invmodel=52515
+primarymalemodel=52516
+primaryfemalemodel=52516
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+
+# Pharaoh Platelegs (placeholder)
+[[item]]
+id=30021
+inherit=15430
+name="null"
+placeholdertemplate=14401
+placeholderid=2685
+invmodel=52515
+
+# Pharaoh Cape
+[[item]]
+id=2686
+inherit=23099
+name="Pharaoh Cape"
+placeholderid=30022
+invmodel=52507
+primarymalemodel=52508
+primaryfemalemodel=52508
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+zoom=2800
+grandexchange=true
+
+# Pharaoh Cape (placeholder)
+[[item]]
+id=30022
+inherit=15430
+name="null"
+placeholdertemplate=14401
+placeholderid=2686
+invmodel=52507
+
+# Pharaoh Boots
+[[item]]
+id=2687
+inherit=23093
+name="Pharaoh Boots"
+placeholderid=30023
+invmodel=52505
+primarymalemodel=52506
+primaryfemalemodel=52506
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+
+# Pharaoh Boots (placeholder)
+[[item]]
+id=30023
+inherit=15430
+name="null"
+placeholdertemplate=14401
+placeholderid=2687
+invmodel=52505
+
+# Pharaoh Gloves
+[[item]]
+id=2688
+inherit=23091
+name="Pharaoh Gloves"
+placeholderid=30024
+invmodel=52509
+primarymalemodel=52510
+primaryfemalemodel=52510
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+
+# Pharaoh Gloves (placeholder)
+[[item]]
+id=30024
+inherit=15430
+name="null"
+placeholdertemplate=14401
+placeholderid=2688
+invmodel=52509

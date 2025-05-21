@@ -1,0 +1,22 @@
+[
+  {
+    "owner": "test",
+    "rankedMembers": {},
+    "prefix": "test",
+    "disabled": false,
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "pharaoh",
+    "rankedMembers": {},
+    "prefix": "Pharaoh",
+    "disabled": false,
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "CORPORAL",
+    "permBannedMembers": []
+  }
+]

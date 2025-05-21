@@ -1,0 +1,12 @@
+[
+  {
+    "owner": "test",
+    "rankedMembers": {},
+    "prefix": "test",
+    "disabled": false,
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  }
+]

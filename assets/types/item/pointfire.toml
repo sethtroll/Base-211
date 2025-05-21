@@ -1,0 +1,13 @@
+# Clue progresser item single
+[[item]]
+id=7478
+inherit=7478
+name="Burn Points"
+op1="Use"
+op2="Drop"
+stackable=1
+tradable = true
+price=1000
+stackids=[7478, 7478, 7478, 7478, 0, 0, 0, 0, 0, 0]
+stackamounts=[2, 3, 4, 5, 0, 0, 0, 0, 0, 0]
+grandexchange=true

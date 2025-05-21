@@ -1,0 +1,286 @@
+  {
+    "shopName": "Pk Master Sell store",
+    "currency": "DOLLER_TICKET",
+    "sellPolicy": "STOCK_ONLY",
+    "items": [
+      {
+        "id": 50670,//ags
+        "amount": 2,
+        "sellPrice": 2,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //claws
+        "id": 50671,
+        "amount": 2,
+        "sellPrice": 2,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //tent
+        "id": 50672,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //toxic staff
+        "id": 50673,
+        "amount": 2,
+        "sellPrice": 2,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //infernal
+        "id": 50704,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //magic cape
+        "id": 50703,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //b gloves
+        "id": 50702,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //elder
+        "id": 50674,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //arma c bow
+        "id": 50675,
+        "amount": 2,
+        "sellPrice": 2,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //mages book
+        "id": 50701,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //faceguard
+        "id": 50694,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //torso
+        "id": 50695,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //b ring
+        "id": 50688,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //archer ring
+        "id": 50687,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //seers ring
+        "id": 50686,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //new avernic
+        "id": 50690,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //prims
+        "id": 50693,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //pegs
+        "id": 50692,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //eternal
+        "id": 50691,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //fury
+        "id": 50689,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //arma helm
+        "id": 50698,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //arma chest
+        "id": 50699,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //arma legs
+        "id": 50715,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //bandos chest
+        "id": 50697,
+        "amount": 2,
+        "sellPrice": 2,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //bandos tassy
+        "id": 50696,
+        "amount": 2,
+        "sellPrice": 2,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //ahrims skirt
+        "id": 50685,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //ahrims top
+        "id": 50684,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //ahrims hood
+        "id": 50683,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //karils skirt
+        "id": 50682,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //karils body
+        "id": 50681,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //akrils coif
+        "id": 50680,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //dharoks axe
+        "id": 50679,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //sdharoks legs
+        "id": 50678,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //dharoks chest
+        "id": 50677,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      },
+      {
+        //sdharoks helm
+        "id": 50676,
+        "amount": 1,
+        "sellPrice": 1,
+        "buyPrice": -1,
+        "restockTimer": 0
+      }
+    ]
+  }

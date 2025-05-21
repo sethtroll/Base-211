@@ -1,0 +1,197 @@
+  {
+    "shopName": "Donation shop",
+    "currency": "DONATION_POINTS",
+    "sellPolicy": "NO_SELLING",
+    "items": [
+      {
+        "id": 13648,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 4
+      },
+      {
+        "id": 13649,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 7
+      },
+      {
+        "id": 13650,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 10
+      },
+      {
+        "id": 19782,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 75
+      },
+      {
+        "id": 19783,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 75
+      },
+      {
+        "id": 12019,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 75
+      },
+      {
+        "id": 23550,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 75
+      },
+      {
+        "id": 13226,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 75
+      },
+      {
+        "id": 13639,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 75
+      },
+      {
+        "id": 12020,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 100
+      },
+      {
+        "id": 12791,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 50
+      },
+      {
+        "id": 11738,
+        "amount": 100,
+        "sellPrice": 0,
+        "buyPrice": 5
+      },
+      {
+        "id": 30210,
+        "amount": 1000,
+        "sellPrice": 0,
+        "buyPrice": 5,
+        "restockTimer": 1
+      },
+      {
+        "id": 30215,
+        "amount": 1000,
+        "sellPrice": 0,
+        "buyPrice": 5,
+        "restockTimer": 1
+      },
+      {
+        //donation shop mystery box
+        "id": 6199,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 40,
+        "restockTimer": 1
+      },
+      {
+        //donation shop haloween pet box
+        "id": 30081,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 20,
+        "restockTimer": 1
+      },
+      {
+        //d defender
+        "id": 12954,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 50,
+        "restockTimer": 1
+      },
+      {
+        //firecape
+        "id": 6570,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 50,
+        "restockTimer": 1
+      },
+      {
+        //torso
+        "id": 10551,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 50,
+        "restockTimer": 1
+      },
+      {
+        //infernal
+        "id": 21295,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 250,
+        "restockTimer": 1
+      },
+      {
+        //void melle
+        "id": 11665,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 20,
+        "restockTimer": 1
+      },
+      {
+        //void mage
+        "id": 11664,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 20,
+        "restockTimer": 1
+      },
+      {
+        //void range
+        "id": 11663,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 20,
+        "restockTimer": 1
+      },
+      {
+        //void top
+        "id": 8839,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 25,
+        "restockTimer": 1
+      },
+      {
+        //void bottom
+        "id": 8840,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 25,
+        "restockTimer": 1
+      },
+      {
+        //void gloves
+        "id": 8842,
+        "amount": 10000,
+        "sellPrice": 0,
+        "buyPrice": 10,
+        "restockTimer": 1
+      },
+      {
+        //Dragon bones
+        "id": 537,
+        "amount": 100000,
+        "sellPrice": 0,
+        "buyPrice": 1,
+        "restockTimer": 1
+      }
+  ]
+}
